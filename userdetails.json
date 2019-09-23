@@ -1,0 +1,15 @@
+{
+    "user": [{
+            "name": "Amit Singh",
+            "email-id": "amits7204@gmail.com",
+            "age": "27",
+            "city": "Bangalore"
+        },
+        {
+            "name": "lokesh singh",
+            "email-id": "lokesh@gmail.com",
+            "age": "25",
+            "city": "Bangalore"
+        }
+    ]
+}
